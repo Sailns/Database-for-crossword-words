@@ -1,0 +1,27 @@
+1	sok	 chroni wagony
+3	sterta	 gora, kopiec
+2	bomba	 atomowa lub zegarowa
+4	rozum	 chlopski
+5	grzebien	 co lysemu po nim
+6	motocyk	 dwukolowy pojazd mechaniczny
+7	perkusja	 beben i talerze
+8	fasolka	 magiczna lub po bretonsku
+9	konferencja	 burza mozgow
+10	porwanie	 dokonane dla okupu
+11	welna	 prawobrzezny doplyw warty
+12	kult	 spiewa w nim Kazik Staszewski
+13	ser	 Wlochy produkt spozywczy
+14	dom	 z dachem
+15	samolot	 statek powietrzny
+16	mowa	 wypowiadanie slow
+17	mewa	 smieszka z plazy
+18	sen	 bezruch
+samochod	pojazd	 dla przewozu
+20	czlowiek	 homo sapies
+21	morze	 zbiornik wody
+22	rzeka	 ciek wody
+23	ziemia	 planeta surowiec
+24	cukier	 slodki do herbaty
+25	owoce	 slodki natura
+26	warzywa	 jedzenie rosliny
+27      most     przeprawa rzeczna
